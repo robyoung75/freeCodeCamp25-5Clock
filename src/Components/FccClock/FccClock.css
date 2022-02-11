@@ -1,0 +1,13 @@
+.fcc_clock__timerControls {
+  /* background: red; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.fcc_clock__timer {
+  /* background: orange; */
+  display: flex;
+  justify-content: center;
+  margin: 2rem;
+}
